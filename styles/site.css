@@ -1,0 +1,10 @@
+.red {
+    background-color: red;
+    border-color: red;
+}
+
+.hover:hover {
+    background-color: white;
+    border-color: red;
+    color: red;
+}
